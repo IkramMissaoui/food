@@ -25,6 +25,7 @@
     right: 40px;
     font-size: 25px;
     background-color: #ecbc00;
+    box-shadow: 0px 3px 0px 0px #c29901d1;
     color: white;
     padding: 8px 10px 10px;
     border-radius: 50%;
@@ -37,6 +38,7 @@
 
 .header-icons .container i.btn-to-top:hover {
     background: #232b38;
+    box-shadow: 0px 3px 0px 0px #19202a;
     transition: .5s;
 }
 
